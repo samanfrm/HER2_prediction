@@ -26,4 +26,17 @@ The datasets will be uploaded and available on [The Cancer Imaging Archive] (htt
 * **TCGA HER2 cohort**: A total of 668 TCGA-BRCA HER2+/- samples with available HER2 status were downloaded from the [GDC portal] (https://portal.gdc.cancer.gov/).
 
 
-## System requirements: 
+## System requirement
+
+This pipeline is currently developed on the University of Massachusetts Green High Performance Computing Cluster" (GHPCC) and is running on GPU nodes with Tesla V100 GPUs.
+
+Major dependencies are:
+- python 3.6.5 
+- tensorflow-gpu 1.9.0
+- numpy 1.14.3
+- matplotlib 2.1.2
+- sklearn
+- scipy 1.1.0
+- openslide-python 1.1.1
+- Pillow 5.1.0
+
