@@ -28,7 +28,7 @@ The datasets will be uploaded and available on [The Cancer Imaging Archive](http
 
 ## Histopathology stain color normalization
 
-Histopathology stain color normalization procedure is taken from [Zanjani et. al.] (https://github.com/FarhadZanjani/Histopathology-Stain-Color-Normalization).
+Histopathology stain color normalization procedure is taken from [Zanjani et. al.](https://github.com/FarhadZanjani/Histopathology-Stain-Color-Normalization).
 
 ## System requirement
 
