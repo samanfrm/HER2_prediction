@@ -1,6 +1,6 @@
 For details and citations about this work, please check:
 
-Farahmand, S., Fernandez, A.I., Ahmed, F.S. et al. Deep learning trained on hematoxylin and eosin tumor region of Interest predicts HER2 status and trastuzumab treatment response in HER2+ breast cancer. Mod Pathol (2021). https://doi.org/10.1038/s41379-021-00911-w
+Farahmand, S., Fernandez, A.I., Ahmed, F.S. et al. Deep learning trained on hematoxylin and eosin tumor region of Interest predicts HER2 status and trastuzumab treatment response in HER2+ breast cancer. Mod Pathol (2021). 
 
 
 https://www.nature.com/articles/s41379-021-00911-w
