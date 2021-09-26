@@ -5,7 +5,7 @@ Farahmand, S., Fernandez, A.I., Ahmed, F.S. et al. Deep learning trained on hema
 
 https://www.nature.com/articles/s41379-021-00911-w
 
-The deep learning architecture is based on the inception v3 architecture from Google and the procedure is taken from [Coudray et. al.] (https://github.com/ncoudray/DeepPATH) study. 
+The deep learning architecture is based on the inception v3 architecture from Google and the procedure is taken from [Coudray et. al.](https://github.com/ncoudray/DeepPATH) study. 
 
 
 
@@ -18,12 +18,12 @@ The current standard of care for many patients with HER2-positive breast cancer 
 
 ## Datasets
 
-The datasets will be uploaded and available on [The Cancer Imaging Archive] (https://www.cancerimagingarchive.net/) soon!
+The datasets will be uploaded and available on [The Cancer Imaging Archive](https://www.cancerimagingarchive.net/) soon!
 * **Yale HER2 cohort**: 188 HER2 positive and negative invasive breast carcinomas were identified by retrospective search of the Yale Pathology electronic database with HER2 positive cases defined as those with 3+ score by immunohistochemistry (IHC) as defined by American Society of Clinical Oncology/College of American Pathologists (ASCO/CAP) clinical practice guidelines.
 
 * **Yale trastuzumab response cohort**: The response cohort cases were identified also by retrospective search of the Yale Pathology electronic database. Cases included those patients with a pre-treatment breast core biopsy with HER2 positive invasive breast carcinoma who then received neoadjuvant targeted therapy with trastuzumab +/- pertuzumab prior to definitive surgery.
 
-* **TCGA HER2 cohort**: A total of 668 TCGA-BRCA HER2+/- samples with available HER2 status were downloaded from the [GDC portal] (https://portal.gdc.cancer.gov/).
+* **TCGA HER2 cohort**: A total of 668 TCGA-BRCA HER2+/- samples with available HER2 status were downloaded from the [GDC portal](https://portal.gdc.cancer.gov/).
 
 
 ## System requirement
