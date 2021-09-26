@@ -26,6 +26,10 @@ The datasets will be uploaded and available on [The Cancer Imaging Archive](http
 * **TCGA HER2 cohort**: A total of 668 TCGA-BRCA HER2+/- samples with available HER2 status were downloaded from the [GDC portal](https://portal.gdc.cancer.gov/).
 
 
+## Histopathology stain color normalization
+
+Histopathology stain color normalization procedure is taken from [Zanjani et. al.] (https://github.com/FarhadZanjani/Histopathology-Stain-Color-Normalization).
+
 ## System requirement
 
 This pipeline is currently developed on the University of Massachusetts Green High Performance Computing Cluster" (GHPCC) and is running on GPU nodes with Tesla V100 GPUs.
