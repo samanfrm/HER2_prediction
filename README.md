@@ -18,7 +18,7 @@ The current standard of care for many patients with HER2-positive breast cancer 
 
 ## Datasets
 
-The datasets will be uploaded and available on [The Cancer Imaging Archive](https://www.cancerimagingarchive.net/) soon!
+The datasets are uploaded and available on [The Cancer Imaging Archive](https://www.cancerimagingarchive.net/). You can go to [the dataset's respository page](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=119702524) to download the data. 
 * **Yale HER2 cohort**: 188 HER2 positive and negative invasive breast carcinomas were identified by retrospective search of the Yale Pathology electronic database with HER2 positive cases defined as those with 3+ score by immunohistochemistry (IHC) as defined by American Society of Clinical Oncology/College of American Pathologists (ASCO/CAP) clinical practice guidelines.
 
 * **Yale trastuzumab response cohort**: The response cohort cases were identified also by retrospective search of the Yale Pathology electronic database. Cases included those patients with a pre-treatment breast core biopsy with HER2 positive invasive breast carcinoma who then received neoadjuvant targeted therapy with trastuzumab +/- pertuzumab prior to definitive surgery.
